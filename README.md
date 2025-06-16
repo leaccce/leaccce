@@ -7,7 +7,7 @@ Hello!👋 I'm Atul, a passionate and versatile backend developer with a strong 
 
 ## Skills
 
-- **Programming Languages:** Python🐍, JavaScript, C#
+- **Programming Languages:** Python🐍, JavaScript, C, Java
 - **Backend Development:** Django, REST APIs
 - **Frontend Development:** Minor projects with HTML, CSS, JavaScript
 - **AI & Machine Learning:** Exploring various Python libraries (TensorFlow, PyTorch, etc.)
